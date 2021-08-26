@@ -1,0 +1,15 @@
+{
+	"name": "wpvip/init",
+	"type": "wordpress-muplugin",
+	"description": "MU plugin to bootstrap WPVIP",
+	"keywords": ["wpvip"],
+	"homepage": "https://wpvip.com",
+	"license": "GPL-2.0-or-later",
+	"require-dev": {
+		"phpunit/phpunit": "7.5.20",
+		"automattic/vipwpcs": "2.3.2",
+		"phpcompatibility/phpcompatibility-wp": "2.1.1",
+		"dealerdirect/phpcodesniffer-composer-installer": "0.7.1",
+		"erusev/parsedown": "1.7.4"
+	}
+}
